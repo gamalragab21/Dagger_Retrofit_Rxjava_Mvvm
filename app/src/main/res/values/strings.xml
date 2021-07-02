@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dagger_Retrofit_Rxjava_Mvvm</string>
+    <string name="name">Id</string>
+    <string name="username">Id</string>
+    <string name="email">Id</string>
+    <string name="id">Id</string>
+</resources>
